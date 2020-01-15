@@ -1,7 +1,7 @@
 # ImageSR-overview
 Overview about Image Super-resolution and its new trends.
 
-***
+___
 
 ### To do list 
  - **SOTA methods**: its github link as well as paper link.
