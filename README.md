@@ -1,8 +1,6 @@
 # ImageSR-overview
-Overview about Image Super-resolution and its new trends.
-<div  align="center">    
-    <img src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1579079701996&di=eab496e31bdbc1a8388041608e0a663c&imgtype=jpg&src=http%3A%2F%2Fimg2.imgtn.bdimg.com%2Fit%2Fu%3D2121799732%2C2866119455%26fm%3D214%26gp%3D0.jpg" width="100%">
-</div>
+
+图像超分辨率研究领域内相关的前沿研究方向与成果整理。会按照研究方向进行细分，同时会定期更新一些 SOTA方法与开源的代码整合，以及自己对这个领域的一些看法和理解。
 
 ### To do list 
  - **SOTA methods**: its github link as well as paper link.
@@ -13,4 +11,4 @@ Overview about Image Super-resolution and its new trends.
 
 ***
 
-Keep on working...
+持续更新中。。
